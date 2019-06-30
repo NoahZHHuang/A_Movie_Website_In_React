@@ -1,0 +1,323 @@
+{
+  "movies": [
+    {
+      "name": "The Dark Knight",
+      "description": "When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.",
+      "imdbUrl": "https://www.imdb.com/title/tt0468569/",
+      "posterFileUrl": "/assets/imgs/batman.jpg",
+      "tags": [
+        "sci-fi",
+        "drama",
+        "crime"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Pulp Fiction",
+      "description": "The lives of two mob hit men, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+      "imdbUrl": "https://www.imdb.com/title/tt0110912/",
+      "posterFileUrl": "/assets/imgs/pulpfiction.jpg",
+      "tags": [
+        "drama",
+        "crime"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Seven Sins",
+      "description": "Two detectives, a rookie and a veteran, hunt a serial killer who uses the seven deadly sins as his modus operandi.",
+      "imdbUrl": "https://www.imdb.com/title/tt0114369/",
+      "posterFileUrl": "/assets/imgs/sevensins.jpg",
+      "tags": [
+        "drama",
+        "crime"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "The Lord Of Ring",
+      "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring..",
+      "imdbUrl": "https://www.imdb.com/title/tt0120737/",
+      "posterFileUrl": "/assets/imgs/lordofring.jpg",
+      "tags": [
+        "history",
+        "sci-fi",
+        "drama"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "One Flew Over the Cuckoo's Nest",
+      "description": "Upon admittance to a mental institution, a brash rebel rallies the patients to take on the oppressive head nurse.",
+      "imdbUrl": "https://www.imdb.com/title/tt0073486/",
+      "posterFileUrl": "/assets/imgs/flyingphyco.jpg",
+      "tags": [
+        "drama",
+        "tragedy"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Gladiator",
+      "description": "When Batman, Gordon and Harvey Dent launch an assault on the mob, they let the clown out of the box, the Joker, bent on turning Gotham on itself and bringing any heroes down to his level.",
+      "imdbUrl": "https://www.imdb.com/title/tt0172495/",
+      "posterFileUrl": "/assets/imgs/gladiator.jpg",
+      "tags": [
+        "history",
+        "action",
+        "drama"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Snatch",
+      "description": "Unscrupulous boxing promoters, violent bookmakers, a Russian gangster, incompetent amateur robbers, and supposedly Jewish jewelers fight to track down a priceless stolen diamond.",
+      "imdbUrl": "https://www.imdb.com/title/tt0208092/",
+      "posterFileUrl": "/assets/imgs/snatch.jpg",
+      "tags": [
+        "crime",
+        "action",
+        "drama"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Eternal Sunshine Of The Spotless Mind",
+      "description": "A couple undergo a procedure to erase each other from their memories when their relationship turns sour, but it is only through the process of loss that they discover what they had to begin with..",
+      "imdbUrl": "https://www.imdb.com/title/tt0338013/",
+      "posterFileUrl": "/assets/imgs/eternalsunshineofthespotlessmind.jpg",
+      "tags": [
+        "drama",
+        "romance"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Lord Of War",
+      "description": "An arms dealer confronts the morality of his work as he is being chased by an Interpol agent.",
+      "imdbUrl": "https://www.imdb.com/title/tt0399295/",
+      "posterFileUrl": "/assets/imgs/lordofwar.jpg",
+      "tags": [
+        "drama",
+        "crime"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Road to Perdition",
+      "description": "Bonds of loyalty are put to the test when a hitman's son witnesses what his father does for a living.",
+      "imdbUrl": "https://www.imdb.com/title/tt0257044",
+      "posterFileUrl": "/assets/imgs/roadtoperdition.jpg",
+      "tags": [
+        "drama",
+        "crime"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Wreck-It Ralph",
+      "description": "A video game villain wants to be a hero and sets out to fulfill his dream, but his quest brings havoc to the whole arcade where he lives.",
+      "imdbUrl": "https://www.imdb.com/title/tt1772341/",
+      "posterFileUrl": "/assets/imgs/wreckit.jpg",
+      "tags": [
+        "action",
+        "comedy"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Despicable Me",
+      "description": "When a criminal mastermind uses a trio of orphan girls as pawns for a grand scheme, he finds their love is profoundly changing him for the better.",
+      "imdbUrl": "https://www.imdb.com/title/tt1323594/",
+      "posterFileUrl": "/assets/imgs/despicableme.jpg",
+      "tags": [
+        "drama",
+        "comedy"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Babel",
+      "description": "Tragedy strikes a married couple on vacation in the Moroccan desert, touching off an interlocking story involving four different families.",
+      "imdbUrl": "https://www.imdb.com/title/tt0449467/",
+      "posterFileUrl": "/assets/imgs/babel.jpg",
+      "tags": [
+        "drama"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Pride And Prejudice",
+      "description": "Sparks fly when spirited Elizabeth Bennet meets single, rich, and proud Mr. Darcy. But Mr. Darcy reluctantly finds himself falling in love with a woman beneath his class. Can each overcome their own pride and prejudice?",
+      "imdbUrl": "https://www.imdb.com/title/tt0414387/",
+      "posterFileUrl": "/assets/imgs/prideandprejudice.jpg",
+      "tags": [
+        "drama",
+        "romance"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Seven Pounds",
+      "description": "A man with a fateful secret embarks on an extraordinary journey of redemption by forever changing the lives of seven strangers.",
+      "imdbUrl": "https://www.imdb.com/title/tt0814314/",
+      "posterFileUrl": "/assets/imgs/sevenpounds.jpg",
+      "tags": [
+        "drama"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Kung Fu Panda 2",
+      "description": "Po and his friends fight to stop a peacock villain from conquering China with a deadly new weapon, but first the Dragon Warrior must come to terms with his past.",
+      "imdbUrl": "https://www.imdb.com/title/tt1302011/",
+      "posterFileUrl": "/assets/imgs/kongfupanda2.jpg",
+      "tags": [
+        "comedy",
+        "action"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Avatar",
+      "description": "A paraplegic Marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+      "imdbUrl": "https://www.imdb.com/title/tt0499549/",
+      "posterFileUrl": "/assets/imgs/avatar.jpg",
+      "tags": [
+        "sci-fi",
+        "action",
+        "romance"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Life Is Beautiful",
+      "description": "A Jewish man has a wonderful romance with the help of his humour, but must use that same quality to protect his son in a Nazi death camp.",
+      "imdbUrl": "https://www.imdb.com/title/tt0118799/",
+      "posterFileUrl": "/assets/imgs/lifeisbeautiful.jpg",
+      "tags": [
+        "drama",
+        "comedy",
+        "tragedy",
+        "romance"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Titanic",
+      "description": "A seventeen-year-old aristocrat, expecting to be married to a rich claimant by her mother, falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.",
+      "imdbUrl": "https://www.imdb.com/title/tt0120338/",
+      "posterFileUrl": "/assets/imgs/titanic.jpg",
+      "tags": [
+        "tragedy",
+        "romance"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Skyfall",
+      "description": "Bond's loyalty to M is tested when her past comes back to haunt her. Whilst MI6 comes under attack, 007 must track down and destroy the threat, no matter how personal the cost.",
+      "imdbUrl": "https://www.imdb.com/title/tt1074638/",
+      "posterFileUrl": "/assets/imgs/skyfall.jpg",
+      "tags": [
+        "drama",
+        "action"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "The Notebook",
+      "description": "A poor and passionate young man falls in love with a rich young woman and gives her a sense of freedom. They soon are separated by their social differences.",
+      "imdbUrl": "https://www.imdb.com/title/tt0332280/",
+      "posterFileUrl": "/assets/imgs/thenotebook.jpg",
+      "tags": [
+        "comedy",
+        "romance"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "Mission Impossible",
+      "description": "An American agent, under false suspicion of disloyalty, must discover and expose the real spy without the help of his organization.",
+      "imdbUrl": "https://www.imdb.com/title/tt0117060/",
+      "posterFileUrl": "/assets/imgs/missionimpossible.jpg",
+      "tags": [
+        "action",
+        "drama",
+        "sci-fi"
+      ],
+      "type": "movie"
+    },
+    {
+      "name": "This Is Us",
+      "description": "A heartwarming and emotional story about a unique set of triplets, their struggles, and their wonderful parents.",
+      "imdbUrl": "https://www.imdb.com/title/tt5555260/",
+      "posterFileUrl": "/assets/imgs/thisisus.jpg",
+      "tags": [
+        "comedy",
+        "drama",
+        "romance"
+      ],
+      "type": "serial"
+    },
+    {
+      "name": "Breaking Bad",
+      "description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+      "imdbUrl": "https://www.imdb.com/title/tt0903747/",
+      "posterFileUrl": "/assets/imgs/breakingbad.jpg",
+      "tags": [
+        "crime",
+        "drama"
+      ],
+      "type": "serial"
+    },
+    {
+      "name": "West World",
+      "description": "Set at the intersection of the near future and the reimagined past, explore a world in which every human appetite can be indulged without consequence.",
+      "imdbUrl": "https://www.imdb.com/title/tt0475784/",
+      "posterFileUrl": "/assets/imgs/westworld.jpg",
+      "tags": [
+        "sci-fi",
+        "drama"
+      ],
+      "type": "serial"
+    },
+    {
+      "name": "Lie to Me",
+      "description": "About Cal Lightman, the world's leading deception expert who studies facial expressions and involuntary body language to expose the truth behind the lies.",
+      "imdbUrl": "https://www.imdb.com/title/tt1235099/",
+      "posterFileUrl": "/assets/imgs/lietome.jpg",
+      "tags": [
+        "drama",
+        "crime"
+      ],
+      "type": "serial"
+    },
+    {
+      "name": "Prison Break",
+      "description": "Due to a political conspiracy, an innocent man is sent to death row and his only hope is his brother, who makes it his mission to deliberately get himself sent to the same prison in order to break the both of them out, from the inside.",
+      "imdbUrl": "https://www.imdb.com/title/tt0455275/",
+      "posterFileUrl": "/assets/imgs/prisonbreak.jpg",
+      "tags": [
+        "drama",
+        "crime"
+      ],
+      "type": "serial"
+    },
+    {
+      "name": "Friends",
+      "description": "Follows the personal and professional lives of six twenty to thirty-something-year-old friends living in Manhattan.",
+      "imdbUrl": "https://www.imdb.com/title/tt0108778/",
+      "posterFileUrl": "/assets/imgs/friends.jpg",
+      "tags": [
+        "comedy",
+        "romance"
+      ],
+      "type": "serial"
+    }
+
+     
+    
+    
+  ]
+}

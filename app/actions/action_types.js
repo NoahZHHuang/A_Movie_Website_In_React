@@ -1,0 +1,4 @@
+export const FILL_CATEGORIES = "FILL_CATEGORIES";
+export const FILL_MOVIES = "FILL_MOVIES";
+export const CHANGE_KEYWORD = 'CHANGE_KEYWORD';
+export const CHANGE_LAYOUT = 'CHANGE_LAYOUT';
