@@ -32,7 +32,7 @@ class ResultDetail extends React.Component {
                 </a>
                 <div className="tags">
                   {
-                    movie.get('tags').join(" / ")
+                    movie.get('type') + ': ' + movie.get('tags').join(" / ")
                   }
                 </div>
                 <div className="description">
