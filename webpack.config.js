@@ -48,14 +48,10 @@ module.exports = {
         loader: 'url-loader',
 			}
 		]
-	},
-	devServer: {
-		inline: true,
-    port: 8008,
-    contentBase: 'dist'
-	},
+  },
 	plugins: [
     HTMLWebpackPlugin,
-    COPYWebpackPlugin
+    COPYWebpackPlugin,
+    UGLIFYJsPlugin
 	]
 };

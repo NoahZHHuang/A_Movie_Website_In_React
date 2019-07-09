@@ -1,7 +1,6 @@
 const path = require('path');
 const HtmlWebpackPlugin = require('html-webpack-plugin');
 const CopyWebpackPlugin = require('copy-webpack-plugin');
-const UglifyJsPlugin = require('uglifyjs-webpack-plugin');
 
 const apiMocker = require('mocker-api');
 
@@ -15,10 +14,6 @@ const COPYWebpackPlugin = new CopyWebpackPlugin([{
 	from: path.resolve(__dirname, './app/assets/imgs'),
 	to: path.resolve(__dirname, './dist/assets/imgs')
 }]);
-
-const UGLIFYJsPlugin = new UglifyJsPlugin({
-	test: /\.js($|\?)/i
-});
 
 console.log(path.resolve('./mock/index.js'));
 

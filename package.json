@@ -6,7 +6,6 @@
   "main": "webpack.config.js",
   "scripts": {
     "pack": "webpack --watch --config ./webpack.config.js",
-    "start": "webpack-dev-server --hot --inline --open --config ./webpack.config.js",
     "start-mock": "webpack-dev-server --hot --inline --open --config ./webpack.dev.config.js"
   },
   "author": "Noah",
